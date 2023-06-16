@@ -7,13 +7,23 @@ A data science student passionate about the field.:bar_chart:. I like automating
 - 💬 Talk to me about Hardware 💻:, Gaming, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning
 
-### My skills include
+## Technologies 
+- Data Science.
+- Python.
+- R.
+- Machine Learning.
+- Deep Learning.
+- Data Analysis.
 
 <p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
+<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+<img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
 
 </p>
+
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
+</a>
 
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
