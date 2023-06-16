@@ -12,7 +12,6 @@ A data science student passionate about the field.:bar_chart:. I like automating
 <p align="left">
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/R.svg" width="40" height="40" />
-
 	<img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
 </p>
 
