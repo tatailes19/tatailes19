@@ -21,7 +21,7 @@ A data science student passionate about the field.:bar_chart:. I like automating
 
 </p>
 
-<a align="center" href="https://github.com/Neel2904">
+<a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
 </a>
 
