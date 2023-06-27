@@ -4,7 +4,7 @@ A data science student passionate about the field.:bar_chart:. I like automating
 
 
 - :bulb: I'm interested in all things data: **Machine Learning and Data Science**
-- 💬 Talk to me about Hardware 💻:, Gaming, anything that interests you.
+- 💬 Talk to me about Hardware 💻, Gaming, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning
 
 ## Technologies 
