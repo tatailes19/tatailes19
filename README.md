@@ -1,31 +1,19 @@
 ### Hi there 👋 I'm Tata Iles,
 
-A data science student passionate about the field. :bar_chart:. I like automating things :robot:, computer stuff, exploring scalability problems, and improving efficiency and performance.
+As a data enthusiast with a passion for AI, I'm excited to help individuals and businesses make informed decisions :bar_chart: , automate tasks :robot:, and create innovative solutions :dart: . By integrating artificial intelligence into existing systems or developing new intelligent solutions, I work on projects that combine data analysis, machine learning, and automation to drive meaningful outcomes.
 
-- :bulb: I'm interested in all things data: **Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **Machine Learning, AI and Data Science**
 - 💬 Talk to me about Hardware 💻, Gaming, anything that interests you.
-- 🌱 I’m currently pursuing Machine Learning
+- 🌱 I’m currently pursuing Computer Vision & Large Language Models
 
 ## Technologies 
-- Data Science
+- Data Science & AI
 - Python
 - R
 - Machine Learning
 - Deep Learning
-- Data Analysis
+- Data Analysis & Visualization
 
-<p align="left">
-<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-<img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
-</p>
-
-<a href="https://github.com/tatailes19">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
-</a>
-
-## Unlocking Insights with Data-Driven Solutions and Automating Solutions with AI
-
-As a data enthusiast with a passion for AI, I'm excited to help individuals and businesses make informed decisions, automate tasks, and create innovative solutions. By integrating artificial intelligence into existing systems or developing new intelligent solutions, I work on projects that combine data analysis, machine learning, and automation to drive meaningful outcomes.
 
 ### My Strengths and Skills
 
@@ -57,6 +45,11 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 - 📊 Creating interactive dashboards with R Shiny
 - 📈 Exploratory data analysis with data visualization (plotly, seaborn, highcharter, ggplot2)
 
+- <p align="left">
+<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+<img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
+</p>
+
 ### Notable Projects
 
 - ✨ **Smart Attendance System:** Developed a face recognition antispoofing system using one-shot learning, with a dashboard to analyze attendance patterns
@@ -77,6 +70,10 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 **Web Development:**
 
 - 🌐 Experienced in WordPress web development
+
+<a href="https://github.com/tatailes19">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
+</a>
 
 Let's Create Intelligent Solutions Together!
 I'm excited to collaborate with you to drive business value through AI-powered solutions and data-driven insights. Let's work together to unlock insights and automate tasks!
