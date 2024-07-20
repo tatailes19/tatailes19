@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tata Iles,
 
-A data science student passionate about the field.:bar_chart:. I like automating things:robot:, computer stuff, exploring scalability problems and improving efficiency and performance. 
+A data science student passionate about the field. :bar_chart:. I like automating things:robot:, computer stuff, exploring scalability problems and improving efficiency and performance. 
 
 
 - :bulb: I'm interested in all things data: **Machine Learning and Data Science**
