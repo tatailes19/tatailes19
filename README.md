@@ -50,6 +50,11 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 <img title="R" src="https://vectorseek.com/wp-content/uploads/2023/04/R-Logo-Vector-730x730.jpg" width="40" height="40" />
 </p>
 
+<a href="https://github.com/tatailes19">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
+</a>
+
+
 ### Notable Projects
 
 - ✨ **Smart Attendance System:** Developed a face recognition antispoofing system using one-shot learning, with a dashboard to analyze attendance patterns
@@ -71,9 +76,6 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 
 - 🌐 Experienced in WordPress web development
 
-<a href="https://github.com/tatailes19">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatailes19&theme=radical&hide=glsl,python" />
-</a>
 
 Let's Create Intelligent Solutions Together!
 I'm excited to collaborate with you to drive business value through AI-powered solutions and data-driven insights. Let's work together to unlock insights and automate tasks!
