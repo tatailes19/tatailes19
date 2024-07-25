@@ -74,7 +74,7 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 
 **Web Development:**
 
-- 🌐 Experienced in WordPress web development
+- 🌐 Experienced in WordPress web development : developing e-commerce websites
 
 
 Let's Create Intelligent Solutions Together!
