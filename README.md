@@ -58,7 +58,7 @@ As a data enthusiast with a passion for AI, I'm excited to help individuals and 
 ### Notable Projects
 
 - ✨ **Smart Attendance System:** Developed a face recognition antispoofing system using one-shot learning, with a dashboard to analyze attendance patterns
-- ✨ **Automation and Integration:** AI task automation with local LLMs, Rag, and agents using CrewAI, Ollama, and Langchain
+- ✨ **Automation and Integration:** AI task automation with local LLMs, Rag, and agents (ex : voice assistant) using CrewAI, Ollama, and Langchain
 - ✨ **Real-Time Trash Detection and Sorting:** Built a computer vision system to detect and sort trash, with a dashboard to enhance waste management and analyze data
 - ✨ **Time Series and Economical Analysis:** Conducted statistical analysis and deep learning for time series and synthetic data generation using TensorFlow and Keras
 - ✨ **Machine Learning Competitions:** Participated in real-world data competitions organized by companies to solve real-world problems, including churn and fraud detection (scikit-learn and tidymodels)
